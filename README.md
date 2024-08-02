@@ -20,7 +20,7 @@ Ensure you have the following libraries installed:
 Follow these steps to install the project:
 
     Clone the repository:
-    git clone https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies.git
+    git clone https://github.com/Amandeepsinghn/SPAM_SMS_DETECTION.git
 
 
 ## Usage:
