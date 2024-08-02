@@ -15,7 +15,7 @@ Ensure you have the following libraries installed:
 7) pickle
 8) imbalanced-learn
 
-Installation
+## Installation
 
 Follow these steps to install the project:
 
@@ -27,6 +27,14 @@ Follow these steps to install the project:
 Open the Notebook:
 1) Open the notebook file named "Spam_SMS_Detection.ipynb" in Jupyter Notebook or Visual Studio Code.
 2) Execute the code cells one by one to go through the spam SMS detection process. This might include data loading, preprocessing, model training, and evaluation.
+
+
+## Graphical Representation
+![image](https://github.com/user-attachments/assets/7f3d3c84-adc4-43c0-8b47-58ed58e4dbe9)
+
+
+## Contact
+Got questions, suggestions, or interested in collaborating? Reach out to us at Amandeepsingh.kaillay@gmail.com. We're eager to connect with fellow enthusiasts and experts in the field of fraud detection!
 
 
 
